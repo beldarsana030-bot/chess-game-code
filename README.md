@@ -20,12 +20,13 @@ A lightweight, interactive two-player web-based chess game built using pure Java
 * **JavaScript / jQuery 3.2.1:** Game state management, movement validation, capture logic, and turn flow control.
 * **HTML Entities:** Standard Unicode symbols for rendering chess pieces (`&#9812;` through `&#9823;`).
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```text
 ├── index.html   # Main HTML document containing board structure and script links
 ├── style.css    # Board styling, grid alignment, animations, and neon effects
 └── script.js    # Core game logic, state variables, piece options, and click handlers
+
 ● How to Play
 ​Start: White always moves first.  
 ​Select Piece: Click on any piece corresponding to the current active turn to display available legal target squares.  
